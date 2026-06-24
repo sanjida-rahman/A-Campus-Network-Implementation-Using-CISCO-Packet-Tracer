@@ -42,7 +42,15 @@ Denying access of the admin office in the VLAN 10 (student network)
 
 <img width="596" height="86" alt="image" src="https://github.com/user-attachments/assets/6cae7b03-ee75-44f6-8ba9-a03ddf900524" />
 
+**DNS server configuration**
 
+A DNS server is added to the network to resolve domain names to IP addesses.
+
+<img width="571" height="296" alt="image" src="https://github.com/user-attachments/assets/0e4dacb3-678d-4c65-9fb2-1ab3849f8703" />
+
+A web server is also added to this admin office network. It was configured with a static IP address for consistent access. In the index.html file, the title is changed to ‘Open ended Lab’ which is shown while web browsing through every hosts.
+
+<img width="508" height="307" alt="image" src="https://github.com/user-attachments/assets/2d622bab-50f0-4263-b2da-6a9d6f28ca0f" />
 
 
 
