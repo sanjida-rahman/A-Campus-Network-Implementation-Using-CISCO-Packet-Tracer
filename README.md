@@ -24,3 +24,12 @@ In this project, using CISCO packet tracer, a campus network consisting two depa
 
 • A web server is also added to this admin office network. It was configured with a static IP address for consistent access. In the index.html file, the title is changed to ‘Open ended Lab’ which is shown while web browsing through every hosts.
 
+**Network for the Department of CSE:**
+
+• A PT-Router is connected to a switch with Fast Ethernet 0/0 with a PT switch, the IP address used for this network is 190.168.30.0 and the IP address for the router is 190.168.30.1.
+
+• The router is also connected to the admin office router in serial 2/0 where the network address is 20.20.20.0 and the IP address set in this router is 20.20.20.1.
+
+• The router and the switch are enable password protected. The router is also telnet password protected.
+
+• In this router DHCP protocol is used to assign the passwords to the PCs.
